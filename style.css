@@ -1,0 +1,82 @@
+#title {
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+  color: #5a3d55;
+  text-align: center;
+  padding-top: 100px;
+  white-space: nowrap;
+  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("https://data2.1freewallpapers.com/detail/basketball-ball-basketball-spalding.jpg");
+
+  /* Set a specific height */
+  
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+	font-size: 20px;
+	background-color: #e79c2a;
+}
+
+.moldura {
+	background-color: rgba(255, 255, 255, .8);
+	margin-left: 300px;
+  	margin-right: 300px;
+
+  	
+}
+
+#image {
+	min-height: 80%;
+    min-width: 80%;
+    padding-bottom: 50px;
+}
+
+.tribute-text {
+	margin-left: 30px;
+  	margin-right: 30px;
+  	text-align: justify;
+}
+
+h1,
+h2 {
+	color: #3ca59d;
+	font-family: 'BenchNine', sans-serif;
+	font-family: 'Khand', sans-serif;
+}
+
+.citation {
+	font-family: 'BenchNine', sans-serif;
+	font-size: 25px;
+}
+
+p {
+	font-family: 'BenchNine', sans-serif;
+	font-family: 'Khand', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+}
+
+#tribute-info {
+	font-family: 'PT Serif', serif;
+}
+
+img {
+	max-width: 100%;
+ 	height: auto;
+}
